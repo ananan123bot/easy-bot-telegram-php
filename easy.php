@@ -1,7 +1,7 @@
 <?php
 
-define('BOT_TOKEN', 'توکن خود را وارد کنید');
-define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
+define('BOT_TOKEN', '334195858:AAFur7_blRYQpqQPDL7NOBo95oe81oPz-4s');
+define('API_URL', 'https://api.telegram.org/bot'.334195858:AAFur7_blRYQpqQPDL7NOBo95oe81oPz-4s.'/');
 
 function apiRequestWebhook($method, $parameters) {
   if (!is_string($method)) {
